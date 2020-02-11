@@ -1,0 +1,25 @@
+Package: analyzeGES
+Title: A package to assist with survey-weighted contingency table analysis for
+    GES traffic accident data
+Version: 0.0.0.9000
+Authors@R: person("Patrick", "Coyle", email = "patrick.coyle@temple.edu", role = c("aut", "cre"))
+Description: A package to assist with survey-weighted contingency table analysis
+    for GES traffic accident data
+Depends: R (>= 3.2.5)
+License: GPL-3
+LazyData: true
+Imports:
+    WeightedROC,
+    shiny,
+    grid,
+    gridExtra,
+    vcd,
+    Hmisc,
+    survey,
+    ggplot2,
+    MASS,
+    microplot,
+    dplyr,
+    wesanderson,
+    sas7bdat
+RoxygenNote: 6.1.0

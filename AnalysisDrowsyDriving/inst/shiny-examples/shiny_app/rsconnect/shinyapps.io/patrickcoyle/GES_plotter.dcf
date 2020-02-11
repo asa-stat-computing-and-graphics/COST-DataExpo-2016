@@ -1,0 +1,9 @@
+name: GES_plotter
+account: patrickcoyle
+server: shinyapps.io
+appId: 126482
+bundleId: 573395
+url: https://patrickcoyle.shinyapps.io/GES_plotter/
+when: 1475271731.76443
+asMultiple: FALSE
+asStatic: FALSE

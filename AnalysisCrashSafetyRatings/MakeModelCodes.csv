@@ -1,0 +1,1254 @@
+Model Code,Model,Make Code,Make
+1,Rambler/American,1,American Motors
+2,Rebel/Matador,1,American Motors
+3,Ambassador,1,American Motors
+4,Pacer,1,American Motors
+5,AMX,1,American Motors
+6,Javelin,1,American Motors
+7,Hornet/Concord,1,American Motors
+8,Spirit/Gremlin,1,American Motors
+9,Eagle,1,American Motors
+10,Eagle SX-4,1,American Motors
+398,Other automobile,1,American Motors
+399,Unknown automobile,1,American Motors
+998,Other vehicle,1,American Motors
+999,Unknown vehicle,1,American Motors
+1,Compass,2,Jeep
+399,Unknown automobile,2,Jeep
+401,CJ-2/CJ-3/CJ-4,2,Jeep
+402,CJ-5/CJ-6/CJ-7/ CJ-8,2,Jeep
+403,YJ-series,2,Jeep
+404,Cherokee (84-on),2,Jeep
+405,Liberty,2,Jeep
+406,Commander,2,Jeep
+407,Patriot,2,Jeep
+421,Cherokee (-83),2,Jeep
+431,Grand Wagoneer,2,Jeep
+481,Pickup,2,Jeep
+482,Comanche,2,Jeep
+498,Other light truck,2,Jeep
+499,Unknownlighttruck,2,Jeep
+998,Other vehicle,2,Jeep
+999,Unknown vehicle,2,Jeep
+401,Dispatcher,3,AM General
+402,HummerH3,3,AM General
+421,Hummer,3,AM General
+466,Dispatcher,3,AM General
+498,Other light truck,3,AM General
+499,Unknownlighttruck,3,AM General
+884,Medium/Heavy truck,3,AM General
+898,Other medium-heavy truck,3,AM General
+899,Unknown medium/heavy truck,3,AM General
+950,Bus based Motorhome,3,AM General
+983,Bus flat front (rear engine) Transit,3,AM General
+988,Other bus,3,AM General
+989,Unknown Bus,3,AM General
+998,Other vehicle,3,AM General
+999,Unknown Vehicle,3,AM General
+9,Cordoba,6,Chrysler
+10,New Yorker/Newport/ Fifth Avenue/Imperial,6,Chrysler
+14,New Yorker/E Class/ Imperial (90-93)/Fifth Avenue,6,Chrysler
+15,Laser,6,Chrysler
+16,LeBaron,6,Chrysler
+17,LeBaronGTS/GTC,6,Chrysler
+18,Intrepid (Canadian made),6,Chrysler
+19,Neon(export),6,Chrysler
+31,TC (Maserati Sport),6,Chrysler
+35,Conquest,6,Chrysler
+41,Concorde,6,Chrysler
+42,LHS,6,Chrysler
+43,Sebring,6,Chrysler
+44,Cirrus,6,Chrysler
+51,300M,6,Chrysler
+52,PT Cruiser,6,Chrysler
+53,Prowler,6,Chrysler
+54,Pacifica,6,Chrysler
+55,Crossfire,6,Chrysler
+398,Other automobile,6,Chrysler
+399,Unknown automobile,6,Chrysler
+421,Aspen,6,Chrysler
+441,Townand Country,6,Chrysler
+442,Voyager,6,Chrysler
+498,Other light truck,6,Chrysler
+499,Unknownlighttruck,6,Chrysler
+998,Other vehicle,6,Chrysler
+999,Unknown vehicle,6,Chrysler
+1,Dart,7,Dodge
+2,Coronet/Charger(-78)/Magnum,7,Dodge
+3,Polara/Monaco Royal Monaco,7,Dodge
+4,Viper,7,Dodge
+5,Challenger,7,Dodge
+6,Aspen,7,Dodge
+7,Diplomat,7,Dodge
+8,Omni/Charger (83 on),7,Dodge
+9,Mirada,7,Dodge
+10,St. Regis,7,Dodge
+11,Aries (K),7,Dodge
+12,400,7,Dodge
+13,"Rampage
+ (car based pickup)",7,Dodge
+14,600,7,Dodge
+15,Daytona,7,Dodge
+16,Lancer,7,Dodge
+17,Shadow,7,Dodge
+18,Dynasty,7,Dodge
+19,Spirit,7,Dodge
+20,Neon,7,Dodge
+21,Magnum,7,Dodge
+24,Charger(2006+),7,Dodge
+25,Caliber,7,Dodge
+26,Avenger,7,Dodge
+33,Challenger,7,Dodge
+34,Colt (excludes Vista),7,Dodge
+35,Conquest,7,Dodge
+39,Stealth,7,Dodge
+40,Monaco,7,Dodge
+41,Intrepid,7,Dodge
+42,Avenger,7,Dodge
+43,Stratus,7,Dodge
+398,Other automobile,7,Dodge
+399,Unknown automobile,7,Dodge
+401,Raider,7,Dodge
+403,Nitro,7,Dodge
+421,Ramcharger,7,Dodge
+422,Durango,7,Dodge
+441,Vista,7,Dodge
+442,Caravan,7,Dodge
+461,B-series vans,7,Dodge
+462,Sprinter,7,Dodge
+470,Van derivative,7,Dodge
+471,"D50, Colt P/U, RAM50/RAM 100 all",7,Dodge
+472,Dakota,7,Dodge
+481,"D, W-series pickup",7,Dodge
+482,Ram,7,Dodge
+498,Other light truck,7,Dodge
+499,Unknown light truck,7,Dodge
+850,Truck based motorhome,7,Dodge
+881,Medium/Heavy CBE,7,Dodge
+882,Medium/Heavy COE,7,Dodge
+883,Medium/Heavy COE,7,Dodge
+884,Medium/Heavy,7,Dodge
+890,Medium/Heavy COE,7,Dodge
+898,Other medium/heavy truck,7,Dodge
+899,UnknownMedium/heavy truck,7,Dodge
+950,Bus based motorhome,7,Dodge
+981,Medium bus,7,Dodge
+988,Other bus,7,Dodge
+989,Unknown bus,7,Dodge
+998,Other vehicle,7,Dodge
+999,Unknown vehicle,7,Dodge
+10,Imperial,8,Imperial
+398,Other automobile,8,Imperial
+399,Unknown automobile,8,Imperial
+998,Other vehicle,8,Imperial
+999,Unknown vehicle,8,Imperial
+1,Valiant/Duster (-76)/ Scamp,9,Plymouth
+2,Satellite/Belvedere,9,Plymouth
+3,Fury,9,Plymouth
+4,Gran Fury,9,Plymouth
+5,Barracuda,9,Plymouth
+6,Volaré,9,Plymouth
+7,Caravelle,9,Plymouth
+8,Horizon,9,Plymouth
+11,Reliant (K),9,Plymouth
+13,Scamp (car based pickup),9,Plymouth
+17,Sundance,9,Plymouth
+19,Acclaim,9,Plymouth
+20,Neon,9,Plymouth
+31,Cricket,9,Plymouth
+32,Arrow,9,Plymouth
+33,Sapporo,9,Plymouth
+34,Champ/Colt (excludes Vista),9,Plymouth
+35,Conquest,9,Plymouth
+38,Breeze,9,Plymouth
+39,Prowler,9,Plymouth
+37,Laser,9,Plymouth
+398,Other automobile,9,Plymouth
+399,Unknown automobile,9,Plymouth
+421,Trailduster,9,Plymouth
+441,Vista,9,Plymouth
+442,Voyager (minivan),9,Plymouth
+461,Van-fullsize (B-series),9,Plymouth
+471,Arrow pickup (foreign),9,Plymouth
+498,Other light truck,9,Plymouth
+499,Unknownlighttruck,9,Plymouth
+998,Other vehicle,9,Plymouth
+999,Unknown vehicle,9,Plymouth
+34,Summit,10,Eagle
+37,Talon,10,Eagle
+40,Premier,10,Eagle
+41,Vision,10,Eagle
+44,Medallion,10,Eagle
+398,Other automobile,10,Eagle
+399,Unknown automobile,10,Eagle
+441,Summit Wagon,10,Eagle
+498,Other light truck,10,Eagle
+499,Unknownlighttruck,10,Eagle
+998,Other vehicle,10,Eagle
+999,Unknown vehicle,10,Eagle
+1,Falcon,12,Ford
+2,Fairlane,12,Ford
+3,Mustang/Mustang II,12,Ford
+4,Thunderbird (all sizes),12,Ford
+5,LTD II,12,Ford
+6,LTD/Custom/Galaxie,12,Ford
+7,Ranchero,12,Ford
+8,Maverick,12,Ford
+9,Pinto,12,Ford
+10,Torino/GranTorino/Elite,12,Ford
+11,Granada,12,Ford
+12,Fairmont,12,Ford
+13,Escort/EXP,12,Ford
+15,Tempo,12,Ford
+16,CrownVictoria,12,Ford
+17,Taurus,12,Ford
+18,Probe,12,Ford
+21,Five Hundred,12,Ford
+22,Freestyle,12,Ford
+23,Fusion,12,Ford
+24,Edge,12,Ford
+31,English Ford,12,Ford
+32,Fiesta,12,Ford
+33,Festiva,12,Ford
+34,Laser,12,Ford
+35,Contour,12,Ford
+36,Aspire,12,Ford
+37,Focus,12,Ford
+38,GT,12,Ford
+398,Other automobile,12,Ford
+399,Unknown automobile,12,Ford
+401,Bronco II/Bronco (-77) Explorer,12,Ford
+402,Escape,12,Ford
+421,Bronco-fullsize,12,Ford
+422,Expedition,12,Ford
+431,Excursion,12,Ford
+441,Aerostar,12,Ford
+442,Windstar,12,Ford
+443,Freestar,12,Ford
+461,E-series vans,12,Ford
+470,Van derivative,12,Ford
+471,Ranger,12,Ford
+472,Courier,12,Ford
+473,Sport Trac,12,Ford
+481,F-series pickup,12,Ford
+498,Other light truck,12,Ford
+499,Unknownlighttruck,12,Ford
+850,Truck based motorhome,12,Ford
+880,"F450/550 Pickup > 4,536 GVW",12,Ford
+881,Medium/Heavy CBE,12,Ford
+882,Medium/Heavy COE,12,Ford
+883,Medium/Heavy COE,12,Ford
+884,Medium/Heavy,12,Ford
+890,Medium/Heavy COE,12,Ford
+898,Other medium/heavy,12,Ford
+899,Unknownmedium/heavy,12,Ford
+950,Bus based motorhome,12,Ford
+981,Medium bus,12,Ford
+988,Other bus,12,Ford
+989,Unknown bus,12,Ford
+998,Other vehicle,12,Ford
+999,Unknown vehicle,12,Ford
+1,Continental/Town Car,13,Lincoln
+2,Mark,13,Lincoln
+5,Continental (82-on),13,Lincoln
+11,Versailles,13,Lincoln
+12,LS,13,Lincoln
+13,Zephyr,13,Lincoln
+14,MKX,13,Lincoln
+15,MDS,13,Lincoln
+398,Other automobile,13,Lincoln
+399,Unknown automobile,13,Lincoln
+401,Aviator,13,Lincoln
+421,Navigator,13,Lincoln
+481,Blackwood,13,Lincoln
+482,Mark LT,13,Lincoln
+498,Other Light Truck,13,Lincoln
+499,UnknownLight Truck,13,Lincoln
+998,Other vehicle,13,Lincoln
+999,Unknown vehicle,13,Lincoln
+2,Cyclone,14,Mercury
+3,Capri-domestic,14,Mercury
+4,Cougar/XR7,14,Mercury
+6,Marquis/Monterey,14,Mercury
+8,Comet,14,Mercury
+9,Bobcat,14,Mercury
+10,Montego,14,Mercury
+11,Monarch,14,Mercury
+12,Zephyr,14,Mercury
+13,Lynx/LN-7(82-83),14,Mercury
+15,Topaz,14,Mercury
+17,Sable,14,Mercury
+20,Montego (2005+),14,Mercury
+21,Milan,14,Mercury
+31,Capri-foreign,14,Mercury
+33,Pantera,14,Mercury
+36,Tracer,14,Mercury
+37,Mystique,14,Mercury
+38,Cougar,14,Mercury
+39,Marauder,14,Mercury
+398,Other automobile,14,Mercury
+399,Unknown automobile,14,Mercury
+401,Mountaineer,14,Mercury
+402,Mariner,14,Mercury
+443,Villager,14,Mercury
+444,Monterey,14,Mercury
+498,Other light truck,14,Mercury
+499,Unknownlight truck,14,Mercury
+998,Other vehicle,14,Mercury
+999,Unknown vehicle,14,Mercury
+1,Special/Skylark,18,Buick
+2,LeSabre/Centurion/Wildcat,18,Buick
+3,"Electra, Electra 225, Park Avenue (91-on)",18,Buick
+4,Roadmaster,18,Buick
+5,Riviera,18,Buick
+7,Century,18,Buick
+8,Apollo/Skylark,18,Buick
+10,Regal,18,Buick
+12,Skyhawk,18,Buick
+15,Skylark(76-85),18,Buick
+18,Somerset/Skylark,18,Buick
+20,Regal (FWD),18,Buick
+21,Reatta,18,Buick
+22,Lacrosse,18,Buick
+23,Lucerne,18,Buick
+24,Enclave,18,Buick
+31,Opel Kadett,18,Buick
+32,Opel Manta,18,Buick
+33,Opel GT,18,Buick
+34,Opel lsuzu,18,Buick
+398,Other automobile,18,Buick
+399,Unknown automobile,18,Buick
+401,Rendezvous,18,Buick
+402,Rainier,18,Buick
+441,Terraza,18,Buick
+499,UnknownLight Truck,18,Buick
+998,Other vehicle,18,Buick
+999,Unknown vehicle,18,Buick
+3,Deville/Fleetwood (except Limousine),19,Cadillac
+4,Limousine,19,Cadillac
+5,Eldorado,19,Cadillac
+6,Commercial Series,19,Cadillac
+9,Allanté,19,Cadillac
+14,Seville,19,Cadillac
+16,Cimarron,19,Cadillac
+17,Catera,19,Cadillac
+18,CTS,19,Cadillac
+19,XLR,19,Cadillac
+20,SRX,19,Cadillac
+21,STS,19,Cadillac
+22,DTS,19,Cadillac
+398,Other automobile,19,Cadillac
+399,Unknown automobile,19,Cadillac
+421,Escalade,19,Cadillac
+431,Ecalade ESV,19,Cadillac
+480,Escalade EXT (Data years 2005 and earlier),19,Cadillac
+481,Escalade EXT (Data years 2006 and beyond),19,Cadillac
+498,Other Light Truck,19,Cadillac
+499,UnknownLigfht Truck,19,Cadillac
+998,Other vehicle,19,Cadillac
+999,Unknown vehicle,19,Cadillac
+1,Chevelle/Malibu,20,Chevrolet
+2,Impala/Caprice,20,Chevrolet
+4,Corvette,20,Chevrolet
+6,Corvair,20,Chevrolet
+7,El Camino,20,Chevrolet
+8,Nova(-79),20,Chevrolet
+9,Camaro,20,Chevrolet
+10,Monte Carlo (RWD),20,Chevrolet
+11,Vega,20,Chevrolet
+12,Monza,20,Chevrolet
+13,Chevette,20,Chevrolet
+15,Citation,20,Chevrolet
+16,Cavalier,20,Chevrolet
+17,Celebrity,20,Chevrolet
+19,Beretta/Corsica,20,Chevrolet
+20,Lumina,20,Chevrolet
+22,Cobalt,20,Chevrolet
+23,HHR,20,Chevrolet
+31,Spectrum,20,Chevrolet
+32,Nova/GEO Prizm,20,Chevrolet
+33,Sprint/GEO Sprint,20,Chevrolet
+34,GEO Metro,20,Chevrolet
+35,GEO Storm,20,Chevrolet
+36,Monte Carlo (FWD only),20,Chevrolet
+37,Malibu,20,Chevrolet
+38,SSR,20,Chevrolet
+39,Aveo,20,Chevrolet
+398,Other automobile,20,Chevrolet
+399,Unknown automobile,20,Chevrolet
+401,"S-10 Blazer, Blazer",20,Chevrolet
+402,GEO Tracker,20,Chevrolet
+403,Geo Tracker,20,Chevrolet
+404,Equinox,20,Chevrolet
+421,"Fullsize Blazer, Tahoe",20,Chevrolet
+431,Suburban,20,Chevrolet
+441,Astro Van,20,Chevrolet
+442,Lumina APV,20,Chevrolet
+443,Ventura,20,Chevrolet
+444,Uplander,20,Chevrolet
+461,G-seriesvan,20,Chevrolet
+466,P-series van,20,Chevrolet
+470,Van derivative,20,Chevrolet
+471,S-10/T-10,20,Chevrolet
+472,LUV,20,Chevrolet
+473,Colorado,20,Chevrolet
+481,"C, K, R, V-series pickup",20,Chevrolet
+482,Avalanche,20,Chevrolet
+498,Other light truck,20,Chevrolet
+499,Unknownlight truck,20,Chevrolet
+850,Truck based motorhome,20,Chevrolet
+881,Medium/Heavy CBE,20,Chevrolet
+882,Medium/Heavy COE low entry,20,Chevrolet
+883,Medium/Heavy COE high entry,20,Chevrolet
+884,Medium/Heavy,20,Chevrolet
+890,Medium/Heavy COE,20,Chevrolet
+898,Other medium/heavy truck,20,Chevrolet
+899,Unknownmedium/heavy truck,20,Chevrolet
+950,Bus based motorhome,20,Chevrolet
+981,Bus,20,Chevrolet
+988,Other bus,20,Chevrolet
+989,Unknown bus,20,Chevrolet
+998,Other vehicle,20,Chevrolet
+999,Unknown vehicle,20,Chevrolet
+1,Cutlass (RWD-only),21,Oldsmobile
+2,Delta 88,21,Oldsmobile
+3,Ninety-Eight,21,Oldsmobile
+5,Toronado,21,Oldsmobile
+6,Commercial Series,21,Oldsmobile
+12,Starfire,21,Oldsmobile
+15,Omega,21,Oldsmobile
+16,Firenza,21,Oldsmobile
+17,Ciera,21,Oldsmobile
+18,Calais,21,Oldsmobile
+20,Cutlass (FWD),21,Oldsmobile
+21,Achieva,21,Oldsmobile
+22,Aurora,21,Oldsmobile
+23,Intrigue,21,Oldsmobile
+24,Alero,21,Oldsmobile
+398,Other automobile,21,Oldsmobile
+399,Unknown automobile,21,Oldsmobile
+401,Bravada,21,Oldsmobile
+441,Silhouette,21,Oldsmobile
+498,Other light truck,21,Oldsmobile
+499,Unknownlight truck,21,Oldsmobile
+998,Other vehicle,21,Oldsmobile
+999,Unknown vehicle,21,Oldsmobile
+1,LemansTempest (-79),22,Pontiac
+2,Bonneville/Catalina/Parisienne,22,Pontiac
+5,Fiero,22,Pontiac
+8,Ventura,22,Pontiac
+9,Firebird/Trans AM,22,Pontiac
+10,Grand Prix (RWD),22,Pontiac
+11,Astre,22,Pontiac
+12,Sunbird (thru 80),22,Pontiac
+13,T-1000/1000,22,Pontiac
+15,Phoenix,22,Pontiac
+16,J2000/2000/SunbirdSunfire,22,Pontiac
+17,6000,22,Pontiac
+18,Grand AM,22,Pontiac
+19,G5,22,Pontiac
+20,Grand Prix (FWD),22,Pontiac
+22,G6,22,Pontiac
+23,Solstice,22,Pontiac
+31,Lemans (88-on),22,Pontiac
+398,Other automobile,22,Pontiac
+399,Unknown automobile,22,Pontiac
+401,Aztek,22,Pontiac
+402,Vibe,22,Pontiac
+403,Torrent,22,Pontiac
+441,Trans Sport,22,Pontiac
+498,Other light truck,22,Pontiac
+499,Unknownlighttruck,22,Pontiac
+998,Other vehicle,22,Pontiac
+999,Unknown vehicle,22,Pontiac
+7,Caballero/Sprint,23,GMC
+8,Arcadia,23,GMC
+398,Other automobile,23,GMC
+399,Unknown automobile,23,GMC
+401,Jimmy/Typhoon,23,GMC
+421,Fullsize Jimmy Yukon,23,GMC
+431,Suburban,23,GMC
+441,Safari (minivan),23,GMC
+461,G-series van,23,GMC
+466,P-series van,23,GMC
+470,Van derivative,23,GMC
+471,S15fTl5/Sonoma,23,GMC
+472,Canyon,23,GMC
+481,"C, K, R, V-series pickup",23,GMC
+498,Other light truck,23,GMC
+499,Unknown Light Truck,23,GMC
+850,Truck Based Motorhome,23,GMC
+881,"Medium/Heavy	CBE",23,GMC
+882,Medium/Heavy COE low entry,23,GMC
+883,Medium/Heavy COE high entry,23,GMC
+884,Medium/Heavy,23,GMC
+890,Medium/Heavy COE,23,GMC
+898,Other medium/heavy truck,23,GMC
+899,Unknown medium/heavy truck,23,GMC
+950,Bus based motorhome,23,GMC
+981,Bus,23,GMC
+988,Other Bus,23,GMC
+989,Unknown Bus,23,GMC
+998,Other Vehicle,23,GMC
+999,Unknown Vehicle,23,GMC
+1,SL,24,Saturn
+2,SC,24,Saturn
+3,SW,24,Saturn
+4,EV1,24,Saturn
+5,LS,24,Saturn
+6,LW,24,Saturn
+7,Ion,24,Saturn
+8,Sky,24,Saturn
+9,Aura,24,Saturn
+398,Other Automobile,24,Saturn
+399,Unknown Automobile,24,Saturn
+401,Vue,24,Saturn
+441,Relay,24,Saturn
+498,Other light truck,24,Saturn
+499,Unknownlighttruck,24,Saturn
+998,Other vehicle,24,Saturn
+999,Unknown vehicle,24,Saturn
+441,LLV,25,Grumman
+442,Step-in van,25,Grumman
+498,Other light truck,25,Grumman
+499,Unknownlighttruck,25,Grumman
+850,Truck based motorhome,25,Grumman
+881,Medium/Heavy CBE,25,Grumman
+882,Medium/Heavy COE low entry,25,Grumman
+883,Medium/Heavy COE high entry,25,Grumman
+884,Medium/Heavy Unknown engine location,25,Grumman
+890,"Medium/Heavy COE entry position
+ unknown",25,Grumman
+898,Other medium/heavy truck,25,Grumman
+899,Unknownmedium/heavy truck,25,Grumman
+983,"Bus-flat front, rear engine",25,Grumman
+988,Other bus,25,Grumman
+989,Unknown bus,25,Grumman
+998,Other vehicle,25,Grumman
+999,Unknown vehicle,25,Grumman
+1,Studebaker/Avanti,29,OtherDomestic
+2,Checker,29,OtherDomestic
+398,Other make,29,OtherDomestic
+399,Unknownmake,29,OtherDomestic
+498,Other Light Truck,29,OtherDomestic
+988,Other Bus,29,OtherDomestic
+31,Karmann Ghia,30,Volkswagen
+32,Beetle 1300/1500,30,Volkswagen
+33,Super Beetle,30,Volkswagen
+34,411/412,30,Volkswagen
+35,Squareback/Fastback,30,Volkswagen
+36,Rabbit,30,Volkswagen
+37,Dasher,30,Volkswagen
+38,Scirocco,30,Volkswagen
+40,Jetta,30,Volkswagen
+41,Quantum,30,Volkswagen
+42,Golf,30,Volkswagen
+43,Rabbit pickup,30,Volkswagen
+44,Fox,30,Volkswagen
+45,Corrado,30,Volkswagen
+46,Passat,30,Volkswagen
+47,Jetta III,30,Volkswagen
+48,Golf III,30,Volkswagen
+49,New Beetle,30,Volkswagen
+50,Phaeton,30,Volkswagen
+51,EOS,30,Volkswagen
+398,Other automobile,30,Volkswagen
+399,Unknown automobile,30,Volkswagen
+401,The Thing (181),30,Volkswagen
+421,Touareg,30,Volkswagen
+441,Vanagon/Camper,30,Volkswagen
+442,Eurovan,30,Volkswagen
+498,Other light truck,30,Volkswagen
+499,Unknownlighttruck,30,Volkswagen
+998,Other Vehicle,30,Volkswagen
+999,Unknown vehicle,30,Volkswagen
+31,Spider,31,Alfa Romeo
+32,Sports Sedan,31,Alfa Romeo
+33,Sprint Veloce,31,Alfa Romeo
+34,GTV-6,31,Alfa Romeo
+35,164,31,Alfa Romeo
+398,Other automobile,31,Alfa Romeo
+399,Unknown automobile,31,Alfa Romeo
+998,Other vehicle,31,Alfa Romeo
+999,Unknown vehicle,31,Alfa Romeo
+31,Super 90,32,Audi
+32,100/A6,32,Audi
+33,Fox,32,Audi
+34,4000,32,Audi
+35,5000,32,Audi
+36,80/90,32,Audi
+37,200,32,Audi
+38,V-8Quattro,32,Audi
+39,CoupeQuattro,32,Audi
+40,S4/S6,32,Audi
+41,Cabriolet,32,Audi
+42,A4,32,Audi
+43,A3,32,Audi
+44,A8,32,Audi
+45,TT,32,Audi
+46,S8,32,Audi
+47,Allroad,32,Audi
+49,A5,32,Audi
+398,Other automobile,32,Audi
+399,Unknown automobile,32,Audi
+401,Q7,32,Audi
+998,Other vehicle,32,Audi
+999,Unknown vehicle,32,Audi
+31,Marina,33,Austin/Austin Healey
+32,America,33,Austin/Austin Healey
+33,Healey Sprite,33,Austin/Austin Healey
+34,Healy 3000,33,Austin/Austin Healey
+35,Mini,33,Austin/Austin Healey
+398,Other Automobile,33,Austin/Austin Healey
+399,Unknown Automobile,33,Austin/Austin Healey
+998,Other Vehicle,33,Austin/Austin Healey
+999,Unknown Vehicle,33,Austin/Austin Healey
+31,"1600, 2000",34,BMW
+32,Coupe,34,BMW
+33,Bavaria Sedan,34,BMW
+34,3-series,34,BMW
+35,5-series,34,BMW
+36,6-series,34,BMW
+37,7-series,34,BMW
+38,8-series,34,BMW
+39,Z3,34,BMW
+40,Z8,34,BMW
+41,V5,34,BMW
+42,Z4,34,BMW
+398,Other Automobile,34,BMW
+399,Unknown Automobile,34,BMW
+401,X5,34,BMW
+402,X3,34,BMW
+499,Unknown Light Truck,34,BMW
+701,0-50cc,34,BMW
+702,51-124cc,34,BMW
+703,125-349cc,34,BMW
+704,350-449cc,34,BMW
+705,450-749cc,34,BMW
+706,750cc-over,34,BMW
+709,Unknown cc,34,BMW
+799,Unknown motored cycle,34,BMW
+998,Other Vehicle,34,BMW
+999,Unknown Vehicle,34,BMW
+31,F10,35,Nissan/Datsun
+32,200/240 SX,35,Nissan/Datsun
+33,1200/210/B210,35,Nissan/Datsun
+34,"Z-car, ZX",35,Nissan/Datsun
+35,310,35,Nissan/Datsun
+36,510,35,Nissan/Datsun
+37,610,35,Nissan/Datsun
+38,710,35,Nissan/Datsun
+39,810/Maxima,35,Nissan/Datsun
+40,Roadster,35,Nissan/Datsun
+41,"PL 411, RL 411",35,Nissan/Datsun
+42,Stanza,35,Nissan/Datsun
+43,Sentra,35,Nissan/Datsun
+44,Pulsar,35,Nissan/Datsun
+45,Micra,35,Nissan/Datsun
+46,NX1600/2000,35,Nissan/Datsun
+47,Altima,35,Nissan/Datsun
+48,350Z,35,Nissan/Datsun
+49,Murano,35,Nissan/Datsun
+50,Versa,35,Nissan/Datsun
+398,Other automobile,35,Nissan/Datsun
+399,Unknown automobile,35,Nissan/Datsun
+401,Pathfinder,35,Nissan/Datsun
+402,Xterra,35,Nissan/Datsun
+421,Armada,35,Nissan/Datsun
+441,Van,35,Nissan/Datsun
+442,Axxess,35,Nissan/Datsun
+443,Quest,35,Nissan/Datsun
+471,Datsun/Nissan Pickup,35,Nissan/Datsun
+473,Titan (Data years 2005 and earlier),35,Nissan/Datsun
+481,Titan (Data years 2006 and beyond),35,Nissan/Datsun
+498,Other light truck Patrol,35,Nissan/Datsun
+499,Unknownlight truck,35,Nissan/Datsun
+883,Medium/Heavy COE,35,Nissan/Datsun
+898,Other medium/heavy truck,35,Nissan/Datsun
+899,Unknownmedium/heavy truck,35,Nissan/Datsun
+998,Other vehicle,35,Nissan/Datsun
+999,Unknown vehicle,35,Nissan/Datsun
+31,124 (Coupe/Sedan),36,Fiat
+32,124 Spider/Racer,36,Fiat
+33,Brava-131,36,Fiat
+34,850 (Coupe/Spyder),36,Fiat
+35,128,36,Fiat
+36,X-1/9,36,Fiat
+37,Strada,36,Fiat
+398,Other automobile,36,Fiat
+399,Unknown automobile,36,Fiat
+882,Medium/Heavy COE,36,Fiat
+883,Medium/Heavy COE,36,Fiat
+890,Medium/Heavy COE,36,Fiat
+898,Other medium/heavy truck,36,Fiat
+899,Unknown medium/heavy truck,36,Fiat
+998,Other vehicle,36,Fiat
+999,Unknown vehicle,36,Fiat
+31,Civic/CRX,37,Honda
+32,Accord,37,Honda
+33,Prelude,37,Honda
+34,600 all,37,Honda
+35,S2000,37,Honda
+37,Insight,37,Honda
+39,Fit,37,Honda
+398,Other automobile,37,Honda
+399,Unknown automobile,37,Honda
+401,Passport,37,Honda
+402,CR-V,37,Honda
+403,Element,37,Honda
+421,Pilot,37,Honda
+441,Odyssey,37,Honda
+471,Datsun/Nissan PU Frontier,37,Honda
+498,Other Light Truck,37,Honda
+499,UnknownLight Truck,37,Honda
+701,0-50cc,37,Honda
+702,51-124cc,37,Honda
+703,125-349cc,37,Honda
+704,350-449cc,37,Honda
+705,450cc-749cc,37,Honda
+706,750cc-over,37,Honda
+709,Unknown cc,37,Honda
+731,0-50cc7,37,Honda
+732,51-124 cc,37,Honda
+733,125-349cc,37,Honda
+734,350cc or greater,37,Honda
+739,Unknown cc,37,Honda
+798,Other Motorcycle,37,Honda
+799,Unknown motored cycle,37,Honda
+998,Other vehicle,37,Honda
+999,Unknown vehicle,37,Honda
+31,I-Mark,38,Isuzu
+32,Impulse,38,Isuzu
+33,Stylus,38,Isuzu
+398,Other automobile,38,Isuzu
+399,Unknown automobile,38,Isuzu
+401,Trooper/Trooper II,38,Isuzu
+402,Rodeo,38,Isuzu
+403,Amigo,38,Isuzu
+404,Vehicross,38,Isuzu
+405,Axiom,38,Isuzu
+421,Ascender,38,Isuzu
+441,Oasis,38,Isuzu
+471,P'up (pickup),38,Isuzu
+498,Other light truck,38,Isuzu
+499,Unknown light truck,38,Isuzu
+881,Medium/Heavy CBE,38,Isuzu
+882,Medium/Heavy COE,38,Isuzu
+883,Medium/Heavy COE,38,Isuzu
+884,Medium/Heavy,38,Isuzu
+890,Medium/Heavy COE,38,Isuzu
+898,Other medium/heavy truck,38,Isuzu
+899,Unknown medium/heavy truck,38,Isuzu
+950,Bus based motorhome,38,Isuzu
+981,Bus Conventional front engine,38,Isuzu
+982,Bus Front engine/flat front,38,Isuzu
+983,Bus Rear engine/flat front,38,Isuzu
+988,Other bus,38,Isuzu
+989,Unknown bus,38,Isuzu
+998,Other vehicle,38,Isuzu
+999,Unknown vehicle,38,Isuzu
+31,XJ-S Coupe,39,Jaguar
+32,XJ6/12 Sedan/Coupe,39,Jaguar
+33,XKE,39,Jaguar
+34,X100,39,Jaguar
+35,X-Type,39,Jaguar
+398,Other automobile,39,Jaguar
+399,Unknown automobile,39,Jaguar
+998,Other vehicle,39,Jaguar
+999,Unknown vehicle,39,Jaguar
+31,Beta Sedan - HPG,40,Lancia
+32,Beta Coupe - Zagato,40,Lancia
+33,Scorpion,40,Lancia
+398,Other automobile,40,Lancia
+399,Unknown automobile,40,Lancia
+998,Other vehicle,40,Lancia
+999,Unknown vehicle,40,Lancia
+31,RX2,41,Mazda
+32,RX3,41,Mazda
+33,RX4,41,Mazda
+34,RX7,41,Mazda
+35,323/GLC/Protege,41,Mazda
+36,Cosmo,41,Mazda
+37,626,41,Mazda
+38,808,41,Mazda
+39,Mizer,41,Mazda
+40,R-100,41,Mazda
+41,616/618,41,Mazda
+42,1800,41,Mazda
+43,929,41,Mazda
+44,MX-6,41,Mazda
+45,Miata,41,Mazda
+46,MX-3,41,Mazda
+47,Millenia,41,Mazda
+48,MP3,41,Mazda
+49,RX-8,41,Mazda
+50,Mazda 6,41,Mazda
+51,Mazda 3,41,Mazda
+52,Mazda 5,41,Mazda
+53,CX-7,41,Mazda
+54,CX-9,41,Mazda
+398,Other automobile,41,Mazda
+399,Unknown automobile,41,Mazda
+401,Navajo,41,Mazda
+402,Tribute,41,Mazda
+441,MPV,41,Mazda
+471,Mazda pickup,41,Mazda
+498,Other light truck,41,Mazda
+499,Unknownlighttruck,41,Mazda
+998,Other vehicle,41,Mazda
+999,Unknown vehicle,41,Mazda
+31,200/220/230/240/250/260/280/300/320/340,42,Mercedes Benz
+32,230/280 SL,42,Mercedes Benz
+33,"300/350/380/450/500 SL, 560 SL",42,Mercedes Benz
+34,350/380/420/450/560,42,Mercedes Benz
+35,280/300 SEL,42,Mercedes Benz
+36,380/420/450/500/560 SEL and 500/560 SEC/ 350SDL/300 SDL,42,Mercedes Benz
+37,300 SE/380/450 SE,42,Mercedes Benz
+38,"600, 6.9 Sedan",42,Mercedes Benz
+39,190,42,Mercedes Benz
+40,300,42,Mercedes Benz
+41,400/500E,42,Mercedes Benz
+42,220/280C,42,Mercedes Benz
+43,S Class,42,Mercedes Benz
+44,SL Class,42,Mercedes Benz
+45,SLK,42,Mercedes Benz
+46,CL,42,Mercedes Benz
+47,CLK,42,Mercedes Benz
+48,E,42,Mercedes Benz
+49,SLR Mclaren,42,Mercedes Benz
+50,R-Class,42,Mercedes Benz
+51,CLS-Class,42,Mercedes Benz
+398,Other automobile,42,Mercedes Benz
+399,Unknown automobile,42,Mercedes Benz
+401,M,42,Mercedes Benz
+402,G Class,42,Mercedes Benz
+470,Van derivative,42,Mercedes Benz
+498,Other light truck,42,Mercedes Benz
+499,Unknownlighttruck,42,Mercedes Benz
+881,Medium/Heavy CBE,42,Mercedes Benz
+882,Medium/Heavy COE,42,Mercedes Benz
+883,Medium/Heavy COE,42,Mercedes Benz
+884,Medium/Heavy,42,Mercedes Benz
+890,Medium/Heavy COE,42,Mercedes Benz
+898,Other medium/heavy truck,42,Mercedes Benz
+899,Unknownmedium/heavy truck,42,Mercedes Benz
+950,Bus based motorhome,42,Mercedes Benz
+981,Medium bus,42,Mercedes Benz
+988,Other bus,42,Mercedes Benz
+989,Unknown bus,42,Mercedes Benz
+998,Other vehicle,42,Mercedes Benz
+999,Unknown vehicle,42,Mercedes Benz
+31,Midget,43,MG
+32,MGB,43,MG
+33,MGB,43,MG
+34,MGA,43,MG
+35,TA/TC/TD/TF,43,MG
+36,MGC,43,MG
+398,Other automobile,43,MG
+399,Unknown automobile,43,MG
+998,Other vehicle,43,MG
+999,Unknown vehicle,43,MG
+31,304,44,Peugeot
+32,403,44,Peugeot
+33,404,44,Peugeot
+34,504/505,44,Peugeot
+35,604,44,Peugeot
+36,405,44,Peugeot
+398,Other automobile,44,Peugeot
+399,Unknown automobile,44,Peugeot
+701,0-50cc,44,Peugeot
+702,51-124cc,44,Peugeot
+709,Unknowncc,44,Peugeot
+799,Unknownmotored cycle,44,Peugeot
+998,Other vehicle,44,Peugeot
+999,Unknown vehicle,44,Peugeot
+31,911,45,Porsche
+32,912,45,Porsche
+33,914,45,Porsche
+34,924,45,Porsche
+35,928,45,Porsche
+36,930,45,Porsche
+37,944,45,Porsche
+38,959,45,Porsche
+39,968,45,Porsche
+40,986Boxter,45,Porsche
+41,Cayman,45,Porsche
+398,Other automobile,45,Porsche
+399,Unknown automobile,45,Porsche
+421,Cayenne,45,Porsche
+998,Other vehicle,45,Porsche
+999,Unknown vehicle,45,Porsche
+31,LeCar,46,Renault
+32,Dauphine/l0/R-8/Caravelle,46,Renault
+33,12,46,Renault
+34,15,46,Renault
+35,16,46,Renault
+36,17,46,Renault
+37,RI8i,46,Renault
+38,Fuego,46,Renault
+39,"Alliance/Encore, GTA Convertible",46,Renault
+41,Alpine,46,Renault
+44,Medallion,46,Renault
+45,Premier,46,Renault
+398,Other automobile,46,Renault
+399,Unknown automobile,46,Renault
+998,Other vehicle,46,Renault
+999,Unknown vehicle,46,Renault
+31,99/99E/900,47,Saab
+32,Sonnett,47,Saab
+33,95/96/97,47,Saab
+34,9000,47,Saab
+35,42616,47,Saab
+36,42618,47,Saab
+37,9-2X,47,Saab
+398,Other automobile,47,Saab
+399,Unknown automobile,47,Saab
+401,9-7X,47,Saab
+499,Unknown light truck,47,Saab
+998,Other vehicle,47,Saab
+999,Unknown vehicle,47,Saab
+31,DL/FE/G/GF/GL/GLF/STD/Loyale,48,Subaru
+32,Star,48,Subaru
+33,360,48,Subaru
+34,Legacy,48,Subaru
+35,"XT, XT6",48,Subaru
+36,Justy,48,Subaru
+37,SVX,48,Subaru
+38,Impreza,48,Subaru
+43,Brat,48,Subaru
+44,Baja,48,Subaru
+45,Outback,48,Subaru
+398,Other automobile,48,Subaru
+399,Unknown automobile,48,Subaru
+401,Forester,48,Subaru
+402,B9 Tribeca,48,Subaru
+498,Other Light Truck,48,Subaru
+499,UnknownLight Truck,48,Subaru
+998,Other vehicle,48,Subaru
+999,Unknown vehicle,48,Subaru
+31,Corona,49,Toyota
+32,Corolla,49,Toyota
+33,Celica,49,Toyota
+34,Supra,49,Toyota
+35,Cressida,49,Toyota
+36,Crown,49,Toyota
+37,Carina,49,Toyota
+38,Tercel,49,Toyota
+39,Starlet,49,Toyota
+40,Camry,49,Toyota
+41,MR-2,49,Toyota
+42,Paseo,49,Toyota
+43,Avalon,49,Toyota
+44,Solara,49,Toyota
+45,Echo,49,Toyota
+46,Prius,49,Toyota
+48,Scion XA,49,Toyota
+49,Scion XB,49,Toyota
+50,Scion TC,49,Toyota
+51,Yaris,49,Toyota
+398,Other automobile,49,Toyota
+399,Unknown automobile,49,Toyota
+401,4-Runner,49,Toyota
+402,RAV-4,49,Toyota
+403,Highlander,49,Toyota
+404,Matrix,49,Toyota
+405,FJ Cruiser,49,Toyota
+421,Landcruiser,49,Toyota
+422,Sequoia,49,Toyota
+441,Minivan/Previa(,49,Toyota
+442,Sienna,49,Toyota
+471,Pickup,49,Toyota
+472,Takoma,49,Toyota
+481,T-100,49,Toyota
+482,Tundra,49,Toyota
+498,Other light truck,49,Toyota
+499,Unknownlighttruck,49,Toyota
+998,Other vehicle,49,Toyota
+999,Unknown vehicle,49,Toyota
+31,Spitfire,50,Triumph
+32,GT-6,50,Triumph
+33,TR4,50,Triumph
+34,TR6,50,Triumph
+35,TR7/8,50,Triumph
+36,Herald,50,Triumph
+37,Stag,50,Triumph
+398,Other automobile,50,Triumph
+399,Unknown automobile,50,Triumph
+701,0-50cc,50,Triumph
+702,51-124cc,50,Triumph
+703,125-349cc,50,Triumph
+704,350-449cc,50,Triumph
+705,450-749cc,50,Triumph
+706,750cc-over,50,Triumph
+709,Unknowncc,50,Triumph
+799,Unknownmotored cycle,50,Triumph
+998,Other vehicle,50,Triumph
+999,Unknown vehicle,50,Triumph
+31,122,51,Volvo
+32,142/144/145,51,Volvo
+33,164,51,Volvo
+34,240/242/244/245,51,Volvo
+35,262/264/265,51,Volvo
+36,1800,51,Volvo
+37,P-544,51,Volvo
+38,760 780,51,Volvo
+39,740,51,Volvo
+40,940,51,Volvo
+41,960,51,Volvo
+42,850,51,Volvo
+43,70 Series,51,Volvo
+44,90 Series,51,Volvo
+45,80 Series,51,Volvo
+46,40 Series,51,Volvo
+47,60 Series,51,Volvo
+48,V50,51,Volvo
+398,Other automobile,51,Volvo
+399,Unknown automobile,51,Volvo
+401,XC90,51,Volvo
+881,Medium/Heavy CBE,51,Volvo
+882,Medium/Heavy COE,51,Volvo
+883,Medium/Heavy COE,51,Volvo
+884,Medium/Heavy,51,Volvo
+890,Medium/Heavy COE,51,Volvo
+898,Other medium/heavy truck,51,Volvo
+899,Unknownmedium/heavy truck,51,Volvo
+950,Bus based motorhome,51,Volvo
+981,Medium bus,51,Volvo
+988,Other bus,51,Volvo
+989,Unknown bus,51,Volvo
+998,Other vehicle,51,Volvo
+999,Unknown vehicle,51,Volvo
+31,Starion,52,Mitsubishi
+32,Tredia,52,Mitsubishi
+33,Cordia,52,Mitsubishi
+34,Galant,52,Mitsubishi
+35,Mirage,52,Mitsubishi
+36,Precis,52,Mitsubishi
+37,Eclipse,52,Mitsubishi
+38,Sigma,52,Mitsubishi
+39,3000 GT,52,Mitsubishi
+40,Diamante,52,Mitsubishi
+46,Lancer,52,Mitsubishi
+398,Other automobile,52,Mitsubishi
+399,Unknown automobile,52,Mitsubishi
+401,Montero,52,Mitsubishi
+402,Outlander,52,Mitsubishi
+403,Endeavor,52,Mitsubishi
+441,Minivan,52,Mitsubishi
+442,Expo,52,Mitsubishi
+471,Pickup,52,Mitsubishi
+472,Raider/Durocross,52,Mitsubishi
+498,Other light truck,52,Mitsubishi
+499,Unknownlighttruck,52,Mitsubishi
+882,Medium/Heavy COE,52,Mitsubishi
+898,Other medium/heavy truck,52,Mitsubishi
+899,Unknownmedium/heavy truck,52,Mitsubishi
+950,Bus based motorhome,52,Mitsubishi
+981,Bus Conventional front engine,52,Mitsubishi
+982,Bus Front engine/flat front,52,Mitsubishi
+983,Bus Rear engine/flat front,52,Mitsubishi
+988,Other bus,52,Mitsubishi
+989,Unknown bus,52,Mitsubishi
+998,Other vehicle,52,Mitsubishi
+999,Unknown vehicle,52,Mitsubishi
+31,SA310,53,Suzuki
+34,Swift,53,Suzuki
+35,Esteem,53,Suzuki
+36,Aerio,53,Suzuki
+37,Forenza,53,Suzuki
+38,Verona,53,Suzuki
+39,Reno,53,Suzuki
+40,SX4,53,Suzuki
+398,Other automobile,53,Suzuki
+399,Unknown automobile,53,Suzuki
+401,Samurai,53,Suzuki
+402,Sidekick,53,Suzuki
+403,X-90,53,Suzuki
+404,Gvand Vitara,53,Suzuki
+405,XL7,53,Suzuki
+498,Other light truck,53,Suzuki
+499,Unknownlighttruck,53,Suzuki
+701,0-50cc,53,Suzuki
+702,51-124cc,53,Suzuki
+703,125-349cc,53,Suzuki
+704,350-449cc,53,Suzuki
+705,450-749cc,53,Suzuki
+706,750cc-over,53,Suzuki
+709,Unknown cc,53,Suzuki
+731,0-50cc,53,Suzuki
+732,51-124,53,Suzuki
+733,125-349cc,53,Suzuki
+734,350cc or greater,53,Suzuki
+739,Unknowncc,53,Suzuki
+799,Unknownmotored cycle,53,Suzuki
+998,Other vehicle,53,Suzuki
+999,Unknown vehicle,53,Suzuki
+31,Integra,54,Acura
+32,Legend/RL,54,Acura
+33,NSX,54,Acura
+34,Vigor/TL,54,Acura
+35,CL,54,Acura
+38,RSX,54,Acura
+39,TSX,54,Acura
+398,Other automobile,54,Acura
+399,Unknown automobile,54,Acura
+401,SLX,54,Acura
+402,RDX,54,Acura
+421,MDX,54,Acura
+498,Other Light Truck,54,Acura
+499,UnknownLight Truck,54,Acura
+998,Other vehicle,54,Acura
+999,Unknown vehicle,54,Acura
+31,Pony,55,Hyundai
+32,Excel,55,Hyundai
+33,Sonata,55,Hyundai
+34,Scoupe,55,Hyundai
+35,Elantra,55,Hyundai
+36,Accent,55,Hyundai
+37,Tiburon,55,Hyundai
+38,XG300,55,Hyundai
+39,Azera,55,Hyundai
+398,Other automobile,55,Hyundai
+399,Unknown automobile,55,Hyundai
+401,SantaFe,55,Hyundai
+402,Tuscon,55,Hyundai
+403,Veracruz,55,Hyundai
+441,Entourage,55,Hyundai
+498,Other Light Truck,55,Hyundai
+499,UnknownLight Truck,55,Hyundai
+998,Other vehicle,55,Hyundai
+999,Unknown vehicle,55,Hyundai
+31,XR4Ti,56,Merkur
+32,Scorpio,56,Merkur
+398,Other automobile,56,Merkur
+399,Unknown automobile,56,Merkur
+998,Other vehicle,56,Merkur
+999,Unknown vehicle,56,Merkur
+31,GV,57,Yugo
+398,Other automobile,57,Yugo
+399,Unknown automobile,57,Yugo
+998,Other vehicle,57,Yugo
+999,Unknown vehicle,57,Yugo
+31,M30,58,Infiniti
+32,Q45,58,Infiniti
+33,G20,58,Infiniti
+34,J30,58,Infiniti
+35,I30,58,Infiniti
+36,I35,58,Infiniti
+37,G35,58,Infiniti
+38,M45,58,Infiniti
+39,FX35/45,58,Infiniti
+398,Other automobile,58,Infiniti
+399,Unknown automobile,58,Infiniti
+401,T30,58,Infiniti
+421,QX56,58,Infiniti
+498,Other Light Truck,58,Infiniti
+499,UnknownLight Truck,58,Infiniti
+998,Other vehicle,58,Infiniti
+999,Unknown vehicle,58,Infiniti
+31,Charade,60,Daihatsu
+398,Other automobile,60,Daihatsu
+399,Unknown automobile,60,Daihatsu
+401,Rocky,60,Daihatsu
+498,Other light truck,60,Daihatsu
+499,Unknownlighttruck,60,Daihatsu
+998,Other vehicle,60,Daihatsu
+999,Unknown vehicle,60,Daihatsu
+31,827S,61,Sterling
+398,Other automobile,61,Sterling
+399,Unknown automobile,61,Sterling
+998,Other vehicle,61,Sterling
+999,Unknown vehicle,61,Sterling
+401,Discovery (LR),62,Land Rover
+402,Defender90(LR),62,Land Rover
+421,County LWB (RR)/County Classis (RR),62,Land Rover
+422,"Defender90(LR), 4.0 SE (RR), and Freelander",62,Land Rover
+423,LR3,62,Land Rover
+424,LR2,62,Land Rover
+498,Other Light Truck,62,Land Rover
+499,UnknownLight Truck,62,Land Rover
+998,Other vehicle,62,Land Rover
+999,Unknown vehicle,62,Land Rover
+31,Sephia,63,Kia
+32,Spectra,63,Kia
+33,Rio,63,Kia
+34,Optima,63,Kia
+35,Amanti,63,Kia
+36,Rondo,63,Kia
+398,Other automobile,63,Kia
+399,Unknown automobile,63,Kia
+401,Sportage,63,Kia
+402,Sorrento,63,Kia
+441,Sedona,63,Kia
+498,Other Light Truck,63,Kia
+499,Unknown Light Truck,63,Kia
+998,Other vehicle,63,Kia
+999,Unknown vehicle,63,Kia
+31,Lanos,64,Daewoo
+32,Nubria,64,Daewoo
+33,Leganza,64,Daewoo
+398,Other Automobile,64,Daewoo
+399,Unknown Automobile,64,Daewoo
+999,Other Vehicle,64,Daewoo
+31,Cooper,65,Mini
+31,Aston Martin,69,OtherForeign
+32,Bricklin,69,OtherForeign
+33,Citreon,69,OtherForeign
+34,Delorean,69,OtherForeign
+35,Ferrari,69,OtherForeign
+36,Hillman,69,OtherForeign
+37,Jensen,69,OtherForeign
+38,Lamborghini,69,OtherForeign
+39,Lotus,69,OtherForeign
+40,Maserati,69,OtherForeign
+41,Morris,69,OtherForeign
+42,Rolls Royce/Bentley,69,OtherForeign
+44,Simca,69,OtherForeign
+45,Sunbeam,69,OtherForeign
+46,TVR,69,OtherForeign
+48,Desta,69,OtherForeign
+49,Reliant,69,OtherForeign
+52,Bertone,69,OtherForeign
+53,Lada,69,OtherForeign
+398,Other make,69,OtherForeign
+399,Unknownmake,69,OtherForeign
+881,Medium Heavy - CBE,81,Diamond/Reo
+461,Sprinter/Advantage,82,Freightliner/White
+470,M-Line Walk-in Van,82,Freightliner/White
+498,Other Light Truck,82,Freightliner/White
+850,Truck based motorhome,82,Freightliner/White
+881,Medium Heavy - CBE,82,Freightliner/White
+882,Medium/Heavy COE low entry,82,Freightliner/White
+883,Medium/Heavy COE high entry,82,Freightliner/White
+884,Medium/Heavy unknown engine location,82,Freightliner/White
+890,Medium/Heavy COE entry position unknown,82,Freightliner/White
+898,Other medium/heavy truck,82,Freightliner/White
+899,Unknown medium/heavy truck,82,Freightliner/White
+981,Conventional bus,82,Freightliner/White
+982,"Bus-flat front, front engine",82,Freightliner/White
+983,"Bus-flat front, rear engine",82,Freightliner/White
+988,Other bus,82,Freightliner/White
+989,Unknown bus,82,Freightliner/White
+999,Unknown vehicle,82,Freightliner/White
+421,Scout,84,International Harvester
+431,Travelall,84,International Harvester
+466,Multistop Van,84,International Harvester
+481,Pickup,84,International Harvester
+498,Other light truck,84,International Harvester
+499,Unknownlight truck,84,International Harvester
+850,Truck based motorhome,84,International Harvester
+881,Medium Heavy - CBE,84,International Harvester
+882,Medium/Heavy COE low entry,84,International Harvester
+883,Medium/Heavy COE high entry,84,International Harvester
+884,Medium/Heavy,84,International Harvester
+890,Medium/Heavy COE,84,International Harvester
+898,Other medium/heavy truck,84,International Harvester
+899,Unknownmedium/heavy truck,84,International Harvester
+950,Bus based Motorhome,84,International Harvester
+981,Conventional bus,84,International Harvester
+982,"Bus-flat front, front engine",84,International Harvester
+983,"Bus-flat front, rear engine",84,International Harvester
+988,Other bus,84,International Harvester
+989,Unknown bus,84,International Harvester
+998,Other vehicle,84,International Harvester
+999,Unknown vehicle,84,International Harvester
