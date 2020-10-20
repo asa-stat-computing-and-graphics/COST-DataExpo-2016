@@ -1,0 +1,158 @@
+
+The cluster compositions described above are strikingly stable across
+the two datasets. The clusters represent distinct subpopulations of
+bus accidents, with clear interpretations and policy implications.
+
+All four clusters represent distinct types of bus accidents. First,
+cluster 1 depicts accidents involving non-motorists, such as
+pedestrians, cyclists, bicyclists etc. This cluster has a high proportion of accidents at
+intersections (59.8\%), which is a reasonable result. Most
+pedestrian/cyclist-automobile interactions occur at intersections, due often
+to pedestrians/cyclists crossing at cross-walks. To reduce collisions with
+non-motorists, then, bus driver training programs can emphasize
+particular focus and attention to pedestrians at
+intersections. Furthermore, boundaries between automobiles and
+sidewalks, like lane lines and curbs, can be accentuated in order to
+reduce accidental bus-pedestrian interaction. This cluster also has a high proportion of non-motorists at fault. 
+
+Second, cluster 2 features crashes which happened due to another vehicle encroaching into the bus' lane. Most of
+these accidents (57.8\%) occurred in the absence of traffic controls,
+and nearly half involved larger vehicles. This may mean that 
+these accidents occur on larger roads, and points to accidents that
+involve other large vehicles. There are also many school buses in this
+cluster, which may be transporting school-children on highways. Also,
+13.8\%  of the other drivers were distracted. Taken together, this
+cluster indicates the need for increased penalties for distracted
+driving, better local awareness by bus drivers, and perhaps mechanical
+upgrades to the buses. Proximity sensors that notify drivers of other
+cars in their blind spot, or generally adjacent to the vehicle, are
+becoming increasingly common in consumer automobiles, and could
+prevent lane-changing accidents in this cluster. A less costly,
+similar method would be improving visibility of bus turn signals, and
+additional mirrors to increase the driver's field of vision.
+
+Third, cluster 3 represents multi-vehicle accidents which happened due to the other vehicle being in the bus' lane. Most of these crashes (54.2\%) occurred when the bus was stopping. This cluster was also the one which involved the highest proportion of school buses (55.1\%). The crashes often involved bigger vehicles (44\%) and in 19.1\% of the cases at least one of the other drivers was caught intoxicated or otherwise impaired. 
+
+Fourth, cluster 4 contains accidents that occur when buses are
+turning. This type of accident is unsurprising, given the large
+physical profile of buses, which can limit movement. This type of
+accident can be discouraged by improving bus driver precision and
+driving skill. Also, 19.0\% of these accidents occurred while the bus
+driver was distracted, suggesting that driver attentiveness is
+important in preventing accidents.
+
+
+Other than cluster 1, the proportion of accidents in the absence of
+traffic controls is roughly 50\%. This initially suggests that bus
+accidents might be reduced simply by installing additional traffic
+controls. However, this number may simply represent those accidents
+that occur on straight roads, and not at a location where more traffic
+signals would be useful. A simple categorical variable cannot account
+for this nuance, and we hope to clarify these subtypes by
+considering conditional combinations of variables---e.g., accidents at
+intersections, classified by the presence of traffic controls.
+
+The characteristics of the clusters which change across the two time
+periods are highlighted in Table \ref{table:diff}. One of the major
+changes for cluster 1---which broadly represents single vehicle
+crashes involving non-motorists---is the critical event that caused
+the accident. The percentage of crashes due to ``
+non-motorist at fault'' increased from 29.0\% to 71.7\%. At the same
+time, the proportion of crashes
+due to ``other driver under influence'' increased from 4.7\% to
+25.7\%. This suggests that non-motorists, possibly pedestrians or cyclists, are
+more likely to be intoxicated. The proportion of school buses involved in the accidents included in cluster 1, dropped significantly. More accidents happened at intersections in the later period. This may imply the need for stricter traffic controls at intersections.
+
+We note, too, that the proportion of accidents in cluster 1 occurring in
+the absence of traffic controls significantly dropped by half (71.3\% to 36.3\%). We interpret this to indicate that
+fewer non-motorists  stray from sidewalks into the street.
+
+For cluster 4---which broadly represents multi-vehicle crashes that
+occurred when the bus was turning---the proportion of crashes which
+occurred at intersections decreased from 63\% to 53.6\%. At the same
+time, the proportion of crashes which occurred in the absence of
+traffic controls increased from 41.3\% to 53.3\%, which suggests that
+traffic safety officials should examine the presence of traffic
+controls at intersections on common bus routes. One encouraging change
+that occurred in all clusters is the decrease in the proportion of crashes
+due to the bus driver being distracted.
+
+\begin{table}[t]
+        \centering
+        \caption{Key differences between 2005-2009 and 2010-2015 clusters. Figures are rounded to nearest percentage point.}
+        \label{table:diff}
+        \resizebox{\textwidth}{!}{
+        \begin{tabular}{@{}llll@{}}
+                \toprule
+                Characteristic               & Cluster         & 2005-2009                                       & 2010-2015 \\  \midrule
+                Non-motorist                & 4				 & 0.0\%											& 11.2\% \\
+                Bus movement             & 1                  & Parking (15\%)                                  & Parking (2.0\%) \\
+                prior to crash                &                     &                          								&  \\  \midrule
+                Critical event                & 1                  & Vehicle turning (49.3\%)                          & Vehicle turning (23.5\%) \\ 
+                that made the               &                    & Non-motorist                                       & Non-motorist \\
+                crash imminent             &                    &  at fault (29\%)                                    & at fault (71.7\%) \\  \midrule
+                Speed limit                    & 1                 & 35--55 MPH (54.5\%)                                & 35--55 MPH (74.8\%)   \\
+                of the road                     &                   & \textgreater55 MPH (42.7\%)                     &  \textgreater55 MPH (24.3\%) \\ \midrule
+                Traffic control                 & 1       & No control (71.3\%)                               & No control (36.3\%)  \\
+                devices                           &         & Traffic signal (14.3\%)                           & Traffic signal (44.5\%) \\
+                                                       & 4       & No control (41.3\%)                               & No control (53.3\%)  \\   \midrule
+                School bus                      & 1       & 40.8\%                                            & 24.6\% \\
+                involved?                        &        &                                            &  \\                                              \midrule
+                Located at                       & 1       & 42.9\%                                            & 59.8\%  \\
+                intersection?                   & 4       & 63.0\%                                            & 53.6\% \\                     \midrule
+                Bus driver                        & all     & \multicolumn{2}{l}{Decreased for all clusters by more than 10\%}  \\ 
+                distracted?                      &         & \\ \midrule
+                Other driver                     & 2       & 25.6\% & 13.8\% \\
+                distracted?                       & 3        & 31.0\% & 13.0\%  \\ \midrule
+                Other driver                     & 1       & 4.7\% & 25.7\%  \\ 
+                under influence?              &         & \\ \midrule
+                Daylight?                         & 1       & 89.2\% & 66.0\%  \\\bottomrule
+        \end{tabular}
+        }
+\end{table}
+%% limitations: weights in clustering method. COnfounded effect of clustering and changes in population. 
+
+A primary limitation of our analysis is the lack of model-based use of
+the sampling weights. Summary statistics and exploratory data analysis
+indicate that for many of our variables, the composition remains
+consistent between the weighted and unweighted datasets. Although our
+exploratory data analysis and visualization of the clusters account
+for the sampling weights, our literature search did not indicate
+methods for incorporating survey weights in complex clustering methods
+such as SOM or neural gas. Consequently, in order to improve the
+validity of our assumptions, one avenue for further work is to develop
+methods to directly incorporate the weights into both stages of the
+clustering approach.
+
+Another limitation is the uncertainty introduced by the GES data
+revision in 2009. The differences we observe above between the
+2010--2015 and 2005--2009 datasets may reflect a true change in the
+taxonomy of bus accidents, but it may also be due to changes in
+variable definitions or non-determinism in the clustering
+algorithm. However, because the cluster results are so compatible
+across the two populations, we are confident that our findings reflect
+a stable taxonomy of bus accidents. Furthermore, the stability of the
+cluster composition indicates real, latent structure in the data: bus
+accidents can be typified by a cluster-based taxonomy, and the
+differences between the types are distinct and informative.
+
+Finally, these cluster results are preliminary, and as discussed
+above, the simplicity of the clustering features limited the extent to
+which we can interpret the clusters for practical use. This indicates
+that more detailed and fine-grained analysis of bus taxonomy will
+provide yet further understanding of the causes of bus accidents.
+
+In this paper, we constructed a data-driven taxonomy of bus accidents
+in the United States using a two-stage clustering method. We
+investigated the stability of the cluster composition by assembling
+independent taxonomies for two datasets from different time
+periods. As anticipated, clearly distinguished accident subtypes are
+evident in the data. Furthermore, accompanying these subtypes is a
+better picture of the nature and causes of bus accidents. These
+results can be used by policy-makers to increase safety regulations
+targeted to specific accidents, and allocate funds for improved
+traffic controls. These results can also be used to improve training
+for bus drivers, inform pedestrians, and influence bus design and
+manufacturing. Finally, these results can be used by the researcher as
+a base for understanding and taxonomizing bus accident types.
+

@@ -1,0 +1,48 @@
+%\begin{table}[t]
+%\centering
+%\caption{Structure of the various data files that form the GES data}
+%\label{table_ex1}
+%\begin{tabular}{@{}llll@{}}
+%\toprule
+%Data file   & Multiple records  & Description of            & Unique record  \\ 
+%name        & per accident      & variables in file         & identifier\\ \midrule
+%Accident    & No                & Accident characteristics  & Case number  \\
+%Vehicle     & Yes               & Characteristics of all    & Case number, \\
+%            &                   & vehicles involved         & vehicle number \\
+%Person      & Yes               & Characteristics of all    & Case number, \\
+%            &                   & persons involved          & vehicle number, \\
+%            &                   &                           & person number\\
+%Distract    & Yes               & Lists person-level        & same as Person \\
+%            &                   & distractions              & \\
+%Visual      & Yes               & Lists person-level        & same as Person  \\
+%            &                   & visual obstructions       & \\
+%Impair      & Yes               & Lists person-level        & same as Person  \\
+%            &                   & impairments               &  \\ \bottomrule
+%\end{tabular}
+%\end{table}
+
+One of the major challenges of this analysis was data extraction and processing. For the benefit of researchers who may wish to replicate our findings, we briefly describe some of the important aspects of our data processing. The NHTSA undertook a massive effort to standardize the Fatality Analysis Reporting System (FARS) and National Automotive Sampling System General Estimates System (NASS GES) data with the goal of simplifying crash data coding and analysis, as well as to reduce costs and errors. Major changes to the coding scheme were implemented in datasets for the years starting from 2010. The resulting inconsistencies in variables is one of the reasons why the two datasets were considered separately in our analysis. Variables whose coding underwent substantial changes included those relating to driver impairment (drugs, alcohol), light conditions, and manner of collision, among others.
+
+For each year, the GES data encompasses several tables, each containing data
+measured at several levels---vehicle-, person-, and accident-level,
+among others. Table \ref{table_ex1} lists and describes the purpose of these data files. Since we performed our analysis at the accident level, we collapsed data from the more granular levels to the accident level, a procedure that involves some subjective assessment. For example, for multi-vehicle crashes, the variable ``other driver distracted'', at the accident level, is set to 1 if any of the vehicle-level records for this variable is equal to 1. Also, while converting raw categorical variables to binary variables, categories corresponding to ``unknown'' were assigned to the most frequent category.
+
+%\begin{table}[H]
+%\centering
+%\resizebox{\textwidth}{!}{%
+%\begin{tabular}{llll}
+%\rowcolor[HTML]{C0C0C0}
+%\multicolumn{1}{c}{\cellcolor[HTML]{C0C0C0}\textbf{Dataset}} & \multicolumn{1}{c}{\cellcolor[HTML]{C0C0C0}\textbf{\begin{tabular}[c]{@{}c@{}}Number of \\ Records/ Event\end{tabular}}} & \multicolumn{1}{c}{\cellcolor[HTML]{C0C0C0}\textbf{\begin{tabular}[c]{@{}c@{}}Description \\ of Variables\end{tabular}}} & \multicolumn{1}{c}{\cellcolor[HTML]{C0C0C0}\textbf{Merging Key}} \\
+%Accident & Single & \begin{tabular}[c]{@{}l@{}}Summary of the \\ accident\end{tabular} & Case Number \\
+%Vehicle & Multiple & \begin{tabular}[c]{@{}l@{}}Vehicles involved \\ in event\end{tabular} & \begin{tabular}[c]{@{}l@{}}Case Number, \\ Vehicle Number\end{tabular} \\
+%Person & Multiple & \begin{tabular}[c]{@{}l@{}}Persons involved \\ in event\end{tabular} & \begin{tabular}[c]{@{}l@{}}Case Number, \\ Vehicle Number\end{tabular} \\
+%Distract & Multiple & \begin{tabular}[c]{@{}l@{}}Lists person-level \\ distractions\end{tabular} & \begin{tabular}[c]{@{}l@{}}Case Number, \\ Vehicle Number\end{tabular} \\
+%Visual & Multiple & \begin{tabular}[c]{@{}l@{}}Lists person-level \\ visual obstructions\end{tabular} & \begin{tabular}[c]{@{}l@{}}Case Number, \\ Vehicle Number\end{tabular} \\
+%Impair & Multiple & \begin{tabular}[c]{@{}l@{}}Lists person-level \\ impairments\end{tabular} & \begin{tabular}[c]{@{}l@{}}Case Number, \\ Vehicle Number\end{tabular}
+%\end{tabular}%
+%}
+%\caption{Raw NHTSA-provided SAS datasets}
+%\label{table_ex1}
+%\end{table}
+
+

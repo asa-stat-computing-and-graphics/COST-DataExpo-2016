@@ -1,0 +1,76 @@
+
+Some forms of mass transit, such as rail-based systems, exist within a
+closed environment, and traffic accidents are prevented by human
+dispatchers. Other forms, however, depend upon infrastructure used by
+heterogeneous populations. In particular, buses operate on municipal
+roadways, often in dense urban areas. Bus-automobile interactions pose
+unique problems to public safety, especially for public and school
+buses, which stop frequently. Other problems for bus safety include
+bus-pedestrian collisions, and an outsized impact of dangerous weather
+conditions. All told, in 2014, 22000 persons were injured, and 281
+died, in bus accidents \citep{truckfacts}.
+
+As a mass transit solution, bus systems experience unique
+challenges. To begin with, the bus system operates within the larger
+system of public-access roads. This poses problems to the entire
+community, starting with pedestrians, who account for nearly 25\% of
+bus accident fatalities, as well as drivers of other cars (26\%),
+small truck drivers (18\%), and bus passengers (16\%). Furthermore, the
+problem is concentrated on buses operating in urban or suburban areas:
+73\% of bus fatalities occur in school buses or transit buses, as
+opposed to long-distance bus lines \citep{truckfacts}. In order to
+promote the welfare of all individuals impacted by bus accidents, it
+is essential to understand the causes and characteristics of traffic
+accidents involving buses. Such an understanding will provide
+explanations for the causes of bus accidents, which has policy
+relevance for traffic control, transit system design, and
+distracted-driver regulations.
+
+A taxonomy of bus accidents would provide insight into the variety of
+conditions that frequently occur simultaneously in each accident
+subtype.  These conditions could be very specific to each subtype,
+allowing policymakers to focus their attention on relevant regulations
+that need to be changed. We believe that such taxonomies should be
+data-driven to avoid subjectivity, and discover novel subtypes of
+accident.
+
+The construction of data-driven bus accident taxonomies is not
+widespread in the traffic safety literature. The leading study of
+\cite{prato2013bus} employs data collected nearly a decade ago. By
+applying their method to more recent data, we can understand how the
+taxonomy itself has changed from the 2005--2009 period to the
+2010--2015 period.
+
+The National Highway Traffic Safety Administration (NHTSA) annually
+publishes detailed datasets of auto accidents, which include variables
+describing the events that caused the accident, demographic
+information about any drivers or pedestrians involved, and other
+categorical variables describing the incident. The latent structure of
+accidents in the NHTSA data can be used to identify subpopulations of accidents to
+guide a taxonomic study of risk factors of bus accidents.
+
+However, the large volume of observations and high-dimensionality of
+variables makes it difficult to characterize bus accidents by manual
+exploratory data analysis. Therefore, in this paper we constructed a
+taxonomy of bus accidents using cluster analysis. Our analysis
+discriminates several subpopulations of bus accidents on the basis of patterns of shared
+attributes, which provide compelling qualitative profiles of these subpopulations.
+
+We aggregated a subset of variables in the NHTSA's General Estimates
+System (GES), and considered crashes from two separate time periods,
+2005--2009, and 2010--2015. We find clusters representing
+subpopulations of bus accidents that are broadly consistent across the
+two datasets, but we also note the differences in the clusters across
+the datasets, which gives us insight into how the taxonomy itself
+changed over the two time periods.
+
+The paper is organized as follows. In section \ref{sec:data}, 
+we describe the NHTSA's national crash data sample, an ongoing data-collection
+initiative, which is the dataset used in our analysis.
+In section \ref{sec:methods}, we describe the two-stage clustering approach
+used to build the taxonomy. In section \ref{sec:results}, we 
+take a close look at the clusters and interpret them to understand the 
+distinct subpopulations of bus accidents formed by the taxonomy. Section \ref{sec:discussion}
+discusses possible implications of our analysis and addresses some of its limitations.
+
+This work is a part of the 2016 GSS Data Challenge held during the Joint Statistical Meeting (JSM) 2016 conference. Please refer to the editorial \citep{gss} for further details about the 2016 GSS Data Challenge.  All the datasets and the R codes used to produce the plots, and the analyses in this paper can be found in the folder named ``TaxonomyBusCrashes'' at  \url{https://github.com/asa-stat-computing-and-graphics/COST-DataExpo-2016}.

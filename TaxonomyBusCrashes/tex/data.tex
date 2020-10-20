@@ -1,0 +1,75 @@
+The GES dataset is a nationally representative sample of
+police-reported motor vehicle crashes, released annually. The data is
+collected continuously at 60 locations around the United States by the
+NHTSA's National Center for Statistics and Analysis. In releasing the
+data, the NHTSA intends to provide researchers access to traffic
+safety data \citep{NASS}. The GES dataset is a probability sample, and
+corresponding to each accident is a complex survey weight. The
+incorporation of these weights allows estimation of quantities at the
+national level.
+
+We constructed two datasets, covering the time periods 
+2005--2009 and 2010--2015 respectively. We chose to consider two disjoint time
+periods in order to assess the stability of the cluster
+analysis. There is also a significant break between 2009 and 2010 in
+the format, structure, and definitions of the NHTSA's GES sample.
+
+\begin{table}[t]
+\centering
+\caption{Structure of the various data files that form the GES data.}
+\label{table_ex1}
+\begin{tabular}{@{}llll@{}}
+\toprule
+Data file   & Multiple records  & Description of            & Unique record  \\ 
+name        & per accident      & variables in file         & identifier\\ \midrule
+Accident    & No                & Accident characteristics  & Case number  \\
+Vehicle     & Yes               & Characteristics of all    & Case number, \\
+            &                   & vehicles involved         & vehicle number \\
+Person      & Yes               & Characteristics of all    & Case number, \\
+            &                   & persons involved          & vehicle number, \\
+            &                   &                           & person number\\
+Distract    & Yes               & Lists person-level        & same as Person \\
+            &                   & distractions              & \\
+Visual      & Yes               & Lists person-level        & same as Person  \\
+            &                   & visual obstructions       & \\
+Impair      & Yes               & Lists person-level        & same as Person  \\
+            &                   & impairments               &  \\ \bottomrule
+\end{tabular}
+\end{table}
+
+All of the variables we employed in our analysis were either indicator
+variables for a certain characteristic, or categorical, as shown in
+the following list. We selected variables for the two datasets along
+the lines of \cite{prato2013bus}.
+
+The binary variables we considered are:
+  \begin{itemize}
+  \item Accident involved non-motorists;
+  \item A school bus was involved;
+  \item Located at an intersection;
+  \item Single lane road;
+  \item Bus driver distracted;
+  \item Bus driver impaired or under the influence of alcohol or drugs;
+  \item Bus driver speeding;
+  \item Bus driver was male;
+  \item Pickup truck, Sports Utility Vehicle (SUV), or van involved;
+  \item Light / heavy truck involved;
+  \item Other driver distracted;
+  \item Other driver impaired or under the influence of alcohol or drugs;
+  \item Other driver speeding;
+  \item Surface conditions adverse (wet, straight, or unlevel road);
+  \item Occurred during daylight hours.
+  \end{itemize}
+  
+The categorical variables (more than two categories) we considered are:
+  \begin{itemize}
+  \item Number of vehicles involved: one, two, three or more;
+  \item Speed limit: $<35$ Miles Per Hour (MPH), $35--55$MPH, $>55$MPH;
+  \item Critical event that made crash imminent: loss of control,
+    vehicle turning, other vehicle in lane, other vehicle encroaching into lane, non-motorist at fault, object or animal, unknown;
+  \item Traffic control at crash site: no control, traffic signal,
+    traffic sign, other;
+  \item Bus movement prior to accident: parking, going straight,
+    stopping, decelerating, turning right, turning left, overtaking,
+    reversing, negotiating a curve, other.
+  \end{itemize}

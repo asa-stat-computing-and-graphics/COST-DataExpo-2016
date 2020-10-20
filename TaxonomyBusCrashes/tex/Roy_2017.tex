@@ -1,0 +1,90 @@
+%        File: draft.tex
+%     Created: Wed Sep 14 10:00 AM 2016 E
+% Last Change: Wed Sep 14 10:00 AM 2016 E
+%
+%\documentclass[a4paper]{article}
+\documentclass[11pt]{asaproc}
+\usepackage[english]{babel}
+\usepackage{layout}
+\usepackage[latin9]{inputenc}
+\usepackage{float}
+\usepackage[hyphens]{url}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{esint}
+\usepackage{relsize}
+\usepackage{array}
+\usepackage{natbib}
+\usepackage{color}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{lmodern}
+\usepackage{bm}
+\usepackage{booktabs}
+\usepackage{placeins}
+%\usepackage{subfig}
+\usepackage{amsbsy}
+\usepackage{amsthm}
+\usepackage{times}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{comment}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{hyperref}
+%\usepackage[nomarkers]{endfloat}
+
+\title{ A Cluster-Based Taxonomy of Bus Crashes in the United States }
+
+\author{Dooti Roy\thanks{Department of Statistics, University of Connecticut, Storrs, CT 06269-4120, USA. Email: dooti.roy@uconn.edu. Ph: 860-486-3414} \and  Ved Deshpande\thanks{Department of Statistics, University of Connecticut, Storrs, CT 06269-4120, USA. Email :ved.deshpande@uconn.edu. Ph: 860-486-3414} \and  M. Henry Linder\thanks{Department of Statistics, University of Connecticut, Storrs, CT 06269-4120, USA. Email: matthew.linder@uconn.edu. Ph: 860-486-3414}}
+
+\begin{document}
+
+
+\maketitle
+
+\begin{abstract}
+Accident taxonomy or classification can be used to direct the attention of policymakers to specific concerns in traffic safety, and can subsequently bring about effective regulatory change. Despite the widespread usage of accident taxonomy for general motor vehicle crashes, its use for analyzing bus crashes is limited. We apply a two-stage clustering-based approach based on self-organizing maps followed by neural gas clustering to construct a data-driven taxonomy of bus crashes. Using the 2005--2015 data from General Estimates System (GES), we identify four clusters and expose the qualitative traits that characterize four distinct types of bus crash. Our analysis suggests that cluster characteristics are largely stable over time. Consequently, we make targeted policy recommendations for each of the four subtypes of bus crash.
+\begin{keywords}
+bus accidents, accident classification, clustering, self-organizing maps, General Estimates System
+\end{keywords}
+\end{abstract}
+
+\section{Introduction}
+	
+\input{intro.tex}
+
+\section{Data} \label{sec:data}
+
+\input{data.tex}
+
+\subsection{Data Extraction} \label{sec:extract}
+
+\input{data_ex.tex}
+
+\section{Methods} \label{sec:methods}
+
+\input{methods.tex}
+
+\section{Results} \label{sec:results}
+\input{result}
+\section{Discussion} \label{sec:discussion}
+\input{dis}
+
+\section{Supplementary Materials}
+R code used to generate the figures and the tables in the paper can be 
+found at the paper's GitHub repository: \url{https://github.com/COSTDataChallenge2016/Taxon-omyOfBusCrashes-}.
+\FloatBarrier
+\bibliographystyle{apalike}
+\bibliography{refs}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%%                          APPENDIX                                         %%
+%%
+%% Put additional figures, tables, code etc below
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{appendix}
+\end{document}
