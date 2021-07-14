@@ -1,8 +1,12 @@
 # BayesApproachSelectionBias
 
-This repository contains the data and code that generate the figures in the article: A Hierarchical Bayes Approach to Adjust for Selection Bias in Before-After Analyses of Vision Zero Policies. Some general comments about the data and code are necessary. 
+This repository contains supplementary materials for the paper "A Hierarchical Bayes Approach to Adjust for Selection Bias in Before-After Analyses of Vision Zero Policies" Auerbach et al. (2021) to enable the reader to reproduce the numerical analysis and the graphical results presented in that paper.
 
-The data are contained in the directory `/data`. Some datasets, such as shapefiles, are too large to be uploaded to github. (See https://help.github.com/en/articles/what-is-my-disk-quota for details.) Commented code links to the location of these datasets. To download the data, simply use the `download.file` and `unzip` functions.
+The full reference is: Jonathan Auerbach, Christopher Eshleman, and Rob Trangucci (2021) "A hierarchical Bayes approach to adjust for selection bias in before–after analyses of vision zero policies", Computational Statistics 36(3): 1577–1604.
+
+The final publication is available at the Springer web site via https://link.springer.com/article/10.1007/s00180-021-01070-x. © Springer-Verlag GmbH Germany, part of Springer Nature, 2021.
+
+Some general comments about the data and code are necessary. The data are contained in the directory `/data`. Some datasets, such as shapefiles, are too large to be uploaded to github. (See https://help.github.com/en/articles/what-is-my-disk-quota for details.) Commented code links to the location of these datasets. To download the data, simply use the `download.file` and `unzip` functions.
 
 For example, the comments state that the New York street shapefile can be found at http://gis.ny.gov/gisdata/inventories/details.cfm?DSID=932. To download this data, run
 
