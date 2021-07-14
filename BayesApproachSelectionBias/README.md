@@ -4,7 +4,7 @@ This repository contains supplementary materials for the paper "A Hierarchical B
 
 The full reference is: Jonathan Auerbach, Christopher Eshleman, and Rob Trangucci (2021) "A hierarchical Bayes approach to adjust for selection bias in before–after analyses of vision zero policies", Computational Statistics 36(3): 1577–1604.
 
-The final publication is available at the Springer web site via https://link.springer.com/article/10.1007/s00180-021-01070-x. © Springer-Verlag GmbH Germany, part of Springer Nature, 2021.
+The final publication is available at the Springer web site via https://doi.org/10.1007/s00180-021-01070-x. © Springer-Verlag GmbH Germany, part of Springer Nature, 2021.
 
 Some general comments about the data and code are necessary. The data are contained in the directory `/data`. Some datasets, such as shapefiles, are too large to be uploaded to github. (See https://help.github.com/en/articles/what-is-my-disk-quota for details.) Commented code links to the location of these datasets. To download the data, simply use the `download.file` and `unzip` functions.
 
