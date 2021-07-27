@@ -1,5 +1,9 @@
 # TaxonomyOfBusCrashes-
-This repo holds code and data to reproduce results and graphics in A Cluster-Based Taxonomy of Bus Crashes in the US.
+This repository contains supplementary materials for the paper by Roy et al. (2021) to enable the reader to reproduce the numerical analysis and the graphical results presented in that paper.
+
+The full reference is: Roy, D., Deshpande, V., Linder, M. H. (2021) "A cluster-based taxonomy of bus crashes in the United States", Computational Statistics 36(3): 1621-1638.
+
+The final publication is available at the Springer web site via https://doi.org/10.1007/s00180-021-01073-8. © Springer-Verlag GmbH Germany, part of Springer Nature, 2021.
 
 To reproduce the graphs and the data for the tables, follow these steps:
 1. Clone this repo:
